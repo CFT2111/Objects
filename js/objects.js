@@ -31,6 +31,3 @@ const countries=[
 // 4. Modify question 3 so that the program also prompts for a minimum population. 
 //    The program should then output the countries that match both the specified continent and minimum population
 //    e.g. if the user enters 'Europe' and 60000000 France (but not England) should be displayed.
-
-// 5. Using Q4 as a basis have a go at creating a basic solution to the assignment i.e. store the phone data using objects and arrays.
-//    Use prompt boxes to gather user preferences and feedback to the user with the names of the phones that match these preferences.
